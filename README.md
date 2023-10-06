@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket8439&label=Profile%20views&color=0e75b6&style=flat" alt="aniket8439" /> </p>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Profolio Litehires**
 
 - 🌱 I’m currently learning **MERN Stack, Flutter**
 
