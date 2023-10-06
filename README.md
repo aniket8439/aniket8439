@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hecticprogramer.hashnode.dev/](https://hecticprogramer.hashnode.dev/)
 
-- 💬 Ask me about **frontend, react, react native**
+- 💬 Ask me about **frontend, react, Flutter**
 
 - 📫 How to reach me **aniket8439@gmail.com**
 
